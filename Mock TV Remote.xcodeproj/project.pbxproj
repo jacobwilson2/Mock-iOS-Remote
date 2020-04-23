@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		870AFD172411956000850B68 /* favoriteChannelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870AFD162411956000850B68 /* favoriteChannelViewController.swift */; };
+		87BE05432411BC10001A51BC /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87BE05422411BC0F001A51BC /* ThirdViewController.swift */; };
 		87E023DB240DCA4E001A8383 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E023DA240DCA4E001A8383 /* AppDelegate.swift */; };
 		87E023DD240DCA4E001A8383 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E023DC240DCA4E001A8383 /* SceneDelegate.swift */; };
 		87E023DF240DCA4E001A8383 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E023DE240DCA4E001A8383 /* FirstViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		870AFD162411956000850B68 /* favoriteChannelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favoriteChannelViewController.swift; sourceTree = "<group>"; };
+		87BE05422411BC0F001A51BC /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		87E023D7240DCA4E001A8383 /* Mock TV Remote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mock TV Remote.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		87E023DA240DCA4E001A8383 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87E023DC240DCA4E001A8383 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				87E023DE240DCA4E001A8383 /* FirstViewController.swift */,
 				87E023E0240DCA4E001A8383 /* SecondViewController.swift */,
 				87E023E2240DCA4E001A8383 /* Main.storyboard */,
+				87BE05422411BC0F001A51BC /* ThirdViewController.swift */,
+				870AFD162411956000850B68 /* favoriteChannelViewController.swift */,
 				87E023E5240DCA57001A8383 /* Assets.xcassets */,
 				87E023E7240DCA57001A8383 /* LaunchScreen.storyboard */,
 				87E023EA240DCA57001A8383 /* Info.plist */,
@@ -266,6 +272,8 @@
 				87E023DF240DCA4E001A8383 /* FirstViewController.swift in Sources */,
 				87E023DB240DCA4E001A8383 /* AppDelegate.swift in Sources */,
 				87E023DD240DCA4E001A8383 /* SceneDelegate.swift in Sources */,
+				87BE05432411BC10001A51BC /* ThirdViewController.swift in Sources */,
+				870AFD172411956000850B68 /* favoriteChannelViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
